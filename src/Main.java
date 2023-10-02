@@ -59,7 +59,7 @@ public class Main {
         System.out.println("Всего работников в компании - "+workersAll+" человек");
         workersAll = workersAll+94;
         hourOne = hourAll/workersAll;
-        System.out.println("Если в компании работает "+workersAll+" человек, то всего "+hourOne+" часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает "+workersAll+" человек, то всего "+hourOne+" часа работы может быть поделено между сотрудниками");
 
     }
 }
